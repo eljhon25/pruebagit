@@ -7,6 +7,7 @@ public class Estudiante extends Persona
 	//crear lista de objetos
     LinkedList<String> programas;
     
+    
 	public Estudiante() {
 		super();
 		// TODO Auto-generated constructor stub
