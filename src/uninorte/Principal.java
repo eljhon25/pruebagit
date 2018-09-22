@@ -47,7 +47,7 @@ public class Principal {
     	   System.out.println(persona.getNombreCompleto()+" "+persona.getDireccion() + " " +  persona.getTelefono() + " " + persona.getCorreo());		 
 		 		 		 
 	   }
-       
+       //comentario de cambio
 	}
 
 }
